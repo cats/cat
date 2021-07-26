@@ -8,3 +8,7 @@ gato
 
 По-русски! (Russian)
 Кот
+
+Kwa kiswahili! (Swahili)
+Paka
+
