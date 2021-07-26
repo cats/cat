@@ -9,7 +9,6 @@ gato
 По-русски! (Russian)
 Кот
 
-
 Po polsku! (Polish)
 Kot
 
@@ -18,3 +17,6 @@ CHATTE
 
 Auf Deutsch! (German)
 Katze
+
+Kwa kiswahili! (Swahili)
+Paka
