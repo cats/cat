@@ -11,3 +11,6 @@ gato
 
 Po polsku! (Polish)
 Kot
+
+En français! (French)
+CHATTE
