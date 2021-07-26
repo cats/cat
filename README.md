@@ -20,3 +20,6 @@ Katze
 
 Kwa kiswahili! (Swahili)
 Paka
+
+Türkçe! (Turkish)
+Kedi
