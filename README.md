@@ -29,3 +29,21 @@ Kedi
 
 **한국어로! (Korean)**  
 고양이
+
+**Italiano! (Italian)**  
+gatta
+
+**بالعربية! (Arabic)**  
+قط
+
+**Em português! (Portuguese)**  
+gata
+
+**Στα ελληνικα! (Greek)**  
+Γάτα
+
+**בעברית! (Hebrew)**  
+חתול
+
+**V češtině! (Czech)**  
+kočka
