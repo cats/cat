@@ -1,28 +1,28 @@
 # cat (now in multiple languages!)
 
-this is a cat 
+this is a cat
 ![image](https://user-images.githubusercontent.com/83192247/126928121-cd86fba2-d1ee-480d-a8d3-07f0920ca70b.png)
 
-日本語で (Japanese)
+**日本語で (Japanese)**  
 Nyā (ニャー)
 
-¡En español! (Spanish)
+**¡En español! (Spanish)**  
 gato
 
-По-русски! (Russian)
+**По-русски! (Russian)**  
 Кот
 
-Po polsku! (Polish)
+**Po polsku! (Polish)**  
 Kot
 
-En français! (French)
+**En français! (French)**  
 CHATTE
 
-Auf Deutsch! (German)
+**Auf Deutsch! (German)**  
 Katze
 
-Kwa kiswahili! (Swahili)
+**Kwa kiswahili! (Swahili)**  
 Paka
 
-Türkçe! (Turkish)
+**Türkçe! (Turkish)**  
 Kedi
