@@ -27,5 +27,5 @@ Paka
 **Türkçe! (Turkish)**  
 Kedi
 
-**한국어로! (Korean)**
+**한국어로! (Korean)**  
 고양이
