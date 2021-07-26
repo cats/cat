@@ -9,8 +9,12 @@ gato
 По-русски! (Russian)
 Кот
 
+
 Po polsku! (Polish)
 Kot
 
 En français! (French)
 CHATTE
+
+Auf Deutsch! (German)
+Katze
