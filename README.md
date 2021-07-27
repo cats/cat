@@ -56,3 +56,6 @@ cattus
 
 **Svenska! (Swedish)**
 katt
+
+**Po slovensky! (Slovensky)**
+mačka
