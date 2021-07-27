@@ -56,3 +56,6 @@ cattus
 
 **Svenska! (Swedish)**
 katt
+
+**Dansk! (Danish)**
+kat
