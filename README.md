@@ -51,5 +51,8 @@ kočka
 **ជាភាសាខ្មែរ! (Khmer)**  
 ឆ្មា
 
-**Latine!** (Latin)  
+**Latine! (Latin)**  
 cattus
+
+**Svenska! (Swedish)**
+katt
