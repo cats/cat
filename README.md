@@ -16,7 +16,7 @@ gato
 Kot
 
 **En français! (French)**  
-CHATTE
+Chat
 
 **Auf Deutsch! (German)**  
 Katze
@@ -50,3 +50,6 @@ kočka
 
 **ជាភាសាខ្មែរ! (Khmer)**  
 ឆ្មា
+
+**Latine!** (Latin)  
+cattus
