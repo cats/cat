@@ -47,3 +47,6 @@ gata
 
 **V češtině! (Czech)**  
 kočka
+
+**ជាភាសាខ្មែរ! (Khmer)**  
+ឆ្មា
