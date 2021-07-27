@@ -16,7 +16,7 @@ gato
 Kot
 
 **En français! (French)**  
-CHATTE
+Chat
 
 **Auf Deutsch! (German)**  
 Katze
@@ -47,3 +47,6 @@ gata
 
 **V češtině! (Czech)**  
 kočka
+
+**Latine!** (Latin)
+cattus
