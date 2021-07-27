@@ -54,5 +54,8 @@ kočka
 **Latine! (Latin)**  
 cattus
 
-**Svenska! (Swedish)**
+**Svenska! (Swedish)**  
 katt
+
+**På Norsk! (Norvegian)**   
+katt *same as swedish*
