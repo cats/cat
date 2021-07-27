@@ -48,5 +48,8 @@ gata
 **V češtině! (Czech)**  
 kočka
 
-**Latine!** (Latin)
+**ជាភាសាខ្មែរ! (Khmer)**  
+ឆ្មា
+
+**Latine!** (Latin)  
 cattus
