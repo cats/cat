@@ -66,5 +66,11 @@ kat
 **Po slovensky! (Slovensky)**  
 mačka
 
+**Па-беларуску! (Belarusian)**   
+Кошка
+
+**Magyar nyelven! (Hungarian)**  
+Macska
+
 **𓂋𓏺𓈖 𓆎𓅓𓏏𓊖! (Egyptian)**  
 𓏇𓇍𓅱𓃠
