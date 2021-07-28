@@ -65,3 +65,6 @@ kat
 
 **Po slovensky! (Slovensky)**  
 mačka
+
+**Па-беларуску! (Belarusian)**  
+Кошка
