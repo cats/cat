@@ -92,3 +92,6 @@ Macska
 
 **owo! (OwO)**  
 kitteh
+
+**In het Nederlands! (Dutch)**  
+kat
