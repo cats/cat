@@ -65,3 +65,6 @@ kat
 
 **Po slovensky! (Slovensky)**  
 mačka
+
+**𓂋𓏺𓈖 𓆎𓅓𓏏𓊖! (Egyptian)**  
+𓏇𓇍𓅱𓃠
