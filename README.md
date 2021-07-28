@@ -60,5 +60,8 @@ katt
 **På Norsk! (Norvegian)**   
 katt *same as swedish*
 
-**Dansk! (Danish)**
+**Dansk! (Danish)**  
 kat
+
+**Po slovensky! (Slovensky)**  
+mačka
