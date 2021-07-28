@@ -39,23 +39,26 @@ gatta
 **Em português! (Portuguese)**  
 gata
 
-**Στα ελληνικα! (Greek)**  
+**Στα ελληνικα! (Greek)**   
 Γάτα
 
-**בעברית! (Hebrew)**  
+**בעברית! (Hebrew)**   
 חתול
 
-**V češtině! (Czech)**  
+**V češtině! (Czech)**   
 kočka
 
-**ជាភាសាខ្មែរ! (Khmer)**  
+**ជាភាសាខ្មែរ! (Khmer)**   
 ឆ្មា
 
 **Latine! (Latin)**  
 cattus
 
-**Svenska! (Swedish)**
+**Svenska! (Swedish)**  
 katt
+
+**På Norsk! (Norvegian)**   
+katt *same as swedish*
 
 **Dansk! (Danish)**
 kat
