@@ -68,3 +68,6 @@ mačka
 
 **Па-беларуску! (Belarusian)**  
 Кошка
+
+**Magyar nyelven! (Hungarian)**
+Macska
