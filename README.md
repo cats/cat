@@ -92,3 +92,6 @@ kitteh
 
 **In het Nederlands! (Dutch)**  
 kat
+
+**America (American)**
+Cat
