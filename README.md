@@ -95,3 +95,6 @@ kitteh
 
 **In het Nederlands! (Dutch)**  
 kat
+
+**In cool Language**  
+kitty kittyyyy
