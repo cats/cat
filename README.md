@@ -63,7 +63,7 @@ katt _same as swedish_
 **Dansk! (Danish)**  
 kat
 
-**Po slovensky! (Slovensky)**  
+**Po slovensky! (Slovak)**  
 mačka
 
 **Па-беларуску! (Belarusian)**  
