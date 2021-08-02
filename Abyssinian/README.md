@@ -2,15 +2,13 @@
 
 Weight: 3 - 5 kg
 
-Bred for: not found 
-
 Life span: 14 - 15 yo
 
 Temperament: Active, Energetic, Independent, Intelligent, Gentle
 
 Description: The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.
 
-Origin: not found
+Origin: Egypt
 
 ![image](https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg)
 

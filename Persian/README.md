@@ -2,8 +2,6 @@
 
 Weight: 4 - 6 kg
 
-Bred for: not found 
-
 Life span: 14 - 15 yo
 
 Temperament: not found
