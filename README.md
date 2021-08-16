@@ -92,3 +92,9 @@ kitteh
 
 **In het Nederlands! (Dutch)**  
 kat
+
+**简体中文 (Simplified Chinese)**  
+猫
+
+**繁体中文 (Traditional Chinese)** 
+貓
