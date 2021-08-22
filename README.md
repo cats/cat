@@ -92,3 +92,6 @@ kitteh
 
 **In het Nederlands! (Dutch)**  
 kat
+
+**Auf Schwizerdütsch (Swissgerman)**
+Büsi
