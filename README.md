@@ -93,6 +93,5 @@ kitteh
 **In het Nederlands! (Dutch)**  
 kat
 
-**हिन्दी! (Hindi)**
-
+**हिन्दी! (Hindi)** <br>
 बिल्ली
